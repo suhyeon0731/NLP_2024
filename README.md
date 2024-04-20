@@ -21,4 +21,7 @@
 |:--:|:--:|:--:|
 | 1 | Markdonw Language 👪 |font size, font color, bullet point [syntax](https://github.com/ms624atyale/NLP_2024/blob/main/0_MarkDown4README_md.ipynb) |
 | 2 | Generating Code Cells 😾 | codelines, run(execute) |
-| 3 | 
+| 3 | Five types of Data | interger,float,complex |
+| 4 | Slicing of List data ✂️ | print,string,data |
+| 5 | Regular Expression | import,text,pattern |
+| 6 | Regular Expression | mata character,matches |
