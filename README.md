@@ -25,3 +25,4 @@
 | 4 | Slicing of List data ✂️ | print,string,data |
 | 5 | Regular Expression | import,text,pattern |
 | 6 | Regular Expression | mata character,matches |
+| 7 | |  |
